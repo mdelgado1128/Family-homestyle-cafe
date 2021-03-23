@@ -1,0 +1,13 @@
+
+.pic {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 125px
+}
+.header {
+  background-image: url('/assets/pictures/menu.png');
+  margin: 30px;
+  padding: 20px;
+}
